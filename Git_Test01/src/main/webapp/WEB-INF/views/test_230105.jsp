@@ -10,5 +10,6 @@
 </head>
 <body>
 	<p>기능추가</p>
+	<p>기능2추가</p>
 </body>
 </html>
