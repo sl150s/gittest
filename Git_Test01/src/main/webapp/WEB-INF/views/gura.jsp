@@ -10,5 +10,6 @@
 </head>
 <body>
 	<p>기능1</p>
+	<p>기능2</p>
 </body>
 </html>
